@@ -1,0 +1,9 @@
+{
+  "name": "bagel-template",
+  "scripts": {
+    "start": "bun index.js"
+  },
+  "dependencies": {
+    "@kakengloh/bagel": "^0.2.2"
+  }
+}
